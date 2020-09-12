@@ -3,7 +3,7 @@ package yaksha;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-class MainClass {
+public class MainClass {
 	static int j = 0;
 
 	public static String[] deleteAndMergeFruitLists(int m, ArrayList<String> al, int n, ArrayList<String> al1) {
